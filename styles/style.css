@@ -1,0 +1,36 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Ubuntu:ital,wght@0,400;1,700&display=swap');
+@import 'reset.css';
+
+
+html{
+    --mainColor: #ffffff;
+    --secondaryColor:#007bff;
+    --mainTextColor: #000020;
+    --secondarytextColor:#808080;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input{
+    margin: 1rem;
+}
+
+.card{
+    margin-top: 1rem;
+    max-width: 300px;
+    background-color: rgb(154, 131, 154);
+}
+
+.form{
+}
+
+input{
+    color:rgb(66, 66, 66)
+}
+
+.container{
+    text-align: -webkit-center;
+}
